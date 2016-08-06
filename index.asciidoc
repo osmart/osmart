@@ -1,0 +1,30 @@
+HOLE program homepage 
+=====================
+
+image:HOLE_gramicidin_vmd.png[HOLE results for gramicidin channel]
+
+HOLE is a program that allows the analysis and visualisation of the pore
+dimensions of the holes through molecular structures of ion channels 
+http://dx.doi.org/10.1016/s0263-7855(97)00009-x[Smart et al., 1996].
+It was written by 
+http://www.ebi.ac.uk/about/people/oliver-smart[Oliver Smart]
+while a post doc and independent 
+research fellow at Birkbeck College with the assistance of several
+students: 
+http://uk.linkedin.com/pub/guy-coates/3/b5b/9b0[Guy Coates],
+http://uk.linkedin.com/pub/joe-neduvelil/1/141/594[Joe Neduvelil],
+Valeriu Niculae and Xiaonan Wang.
+
+The first application of HOLE was to analyse the pore dimensions of gramicidin A 
+http://www.sciencedirect.com/science/article/pii/S0006349593812931[Smart et al., 1993]
+working with Prof.'s 
+http://uk.linkedin.com/pub/julia-goodfellow/21/14b/17a[Julia Goodfellow] and 
+http://people.cryst.bbk.ac.uk/~ubcg25a/[Bonnie Wallace]. 
+For many years HOLE was hosted by 
+http://sbcb.bioch.ox.ac.uk/sansom.php[Prof Mark Sansom] at Oxford. However,
+because I was busy doing other things HOLE became unavailable about a year ago.
+
+
+Although it was written over 20 years ago, HOLE remains in demand and its 
+main publications have been cited over 800 times. 
+
