@@ -17,16 +17,17 @@ Valeriu Niculae and Xiaonan Wang.
 
 The first application of HOLE was to analyse the pore dimensions of gramicidin A 
 http://www.sciencedirect.com/science/article/pii/S0006349593812931[Smart et al., 1993]
-working with Prof.'s 
+working with  
 http://uk.linkedin.com/pub/julia-goodfellow/21/14b/17a[Julia Goodfellow] and 
 http://people.cryst.bbk.ac.uk/~ubcg25a/[Bonnie Wallace]. 
-For many years HOLE was hosted by 
-http://sbcb.bioch.ox.ac.uk/sansom.php[Prof Mark Sansom] at Oxford. However,
-because I was busy doing other things HOLE became unavailable about a year ago.
-
-
 Although it was written over 20 years ago, HOLE remains in demand and its 
 main publications have been cited over 800 times. 
+
+Over the years HOLE has been hosted in a number of places (occasionally disappearing &#9785;).
+On the occasion of the 
+http://webspace.qmul.ac.uk/rwjanes/Symposium.htm[Bonnie Wallace Celebratory Symposium, in celebration of her 65th Birthday]
+HOLE has been given a permanent home at http://www.holeprogram.org/ with the source code being made freely available from
+github.
 
 == Source code
 
