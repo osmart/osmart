@@ -38,11 +38,22 @@ under the permissive free software license Apache License, Version 2.0 http://ww
 
 === Current release
 
-_To be added once new build sorted_
+Release v2.2.005 on 07 August 2016 released under Apache License, Version 2.0
+
+
+* 32 bit linux 
+  _to be done_
+* 64 bit linux 
+  link:downloads/2.2.005/hole2-ApacheLicense-2.2.005-Linux-x86_64.tar.gz[downloads/2.2.005/hole2-ApacheLicense-2.2.005-Linux-x86_64.tar.gz]
+ _(built on x86_64 Ubuntu release 12.04 LTS, 64 bit version)_
+* OSX 
+  _to be done_
+
+
 
 === Previous version 
 
-Release v2.2.004 on 24 March 2014 Second release of HOLE from SmartSci (handles large proteins).  
+Release v2.2.004 on 24 March 2015 Second release of HOLE from SmartSci (handles large proteins).  
 Please note these builds are (technically) restricted to scientists engaged in not-for-profit research.
 
 * 32 bit linux 
@@ -60,7 +71,7 @@ link:doc/index.html#_how_to_setup_hole[instructions] in the HOLE documentation.
 
 == Documentation
 
-An online version of the HOLE documentation supplied with HOLE is available link:doc/index.html[here].
+An online version of the documentation supplied with HOLE is available link:doc/index.html[here].
 
 == Support
 
